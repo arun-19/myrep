@@ -1,6 +1,6 @@
 
 <?php
-$conn=mysqli_connect("localhost","id21046869_root","Arun112002@123","id21046869_job");
+$conn=mysqli_connect("localhost","jhxubmdbat","g5QMpZyjkJ","jhxubmdbat");
 
 
 
