@@ -3,7 +3,7 @@ session_start();
 header('Access-Control-Allow-Origin: *');
 
 
-$conn=mysqli_connect("localhost","id21046869_root","Arun112002@123","id21046869_job");
+$conn=mysqli_connect("localhost","jhxubmdbat","g5QMpZyjkJ","jhxubmdbat");
 
 switch(isset($_POST)){
     case isset($_POST['qry']):
